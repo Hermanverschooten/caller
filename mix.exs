@@ -22,7 +22,7 @@ defmodule Caller.MixProject do
 
   defp deps do
     [
-      {:elixir_make, "~> 0.6.2"}
+      {:elixir_make, "~> 0.9"}
     ]
   end
 end
